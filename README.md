@@ -12,6 +12,7 @@ This smart contract is designed to provide a versatile and secure token with mul
 ### Acknowledgements
 
 OpenZeppelin: openzeppelin-contracts
+
 Hardhat: hardhat
 
 #### Contributing
